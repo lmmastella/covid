@@ -521,4 +521,3 @@ for e in estados:
     fig.show()
     # name = e + ' Histograma.html'
     # py.plot(fig, filename=name)
-    # teste teste teste
