@@ -12,6 +12,7 @@ v02 - treinamento com o numero de casos diarios
 v03 - treinamento com o numero totais e tratamento de arquivo
 v04 - saida multi-steps - predidic varios resultados (multi steps)
 v04 - alterar o grafico do v04
+v05 - alteracao do arquivo base - utiliza treinamento v04
 
 @author: lmmastella
 """
